@@ -10,11 +10,7 @@
   <name>calci</name>
   <url>http://maven.apache.org</url>
 
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.source>1.7</maven.compiler.source>
-    <mave.comipler.target>1.7</mave.comipler.target>
-  </properties>
+  
 
   <dependencies>
     <dependency>
